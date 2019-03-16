@@ -1,0 +1,5 @@
+push int8(42)
+assert int32(40)
+mod
+dump
+exit

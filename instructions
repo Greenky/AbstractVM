@@ -1,0 +1,9 @@
+push int8(12)
+push float(123.89)
+push double(12345.5)
+mul
+dump
+add
+dump
+pop
+exit
